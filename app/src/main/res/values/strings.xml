@@ -1,0 +1,8 @@
+<resources>
+    <string name="upload">UPLOAD</string>
+    <string name="capture">CAPTURE</string>
+    <string name="skindeep">SkinDeep</string>
+    <string name="app_name">SidraDeep</string>
+    <string name="save">SAVE</string>
+    <string name="recapture">RECAPTURE</string>
+</resources>
